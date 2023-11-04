@@ -3595,7 +3595,9 @@ h1, h2, h3, h4, h5, h6, blockquote, .tag-coulds a {
   max-width: max-content;
   margin-left: auto;
   margin-right: auto;
-  background: #76a713; }
+  border-radius: 163px;
+  background: #b17d3ede;
+   }
   @media only screen and (max-width: 575px) {
     .banner-inner {
       padding: 25px 55px; } }
@@ -3605,8 +3607,8 @@ h1, h2, h3, h4, h5, h6, blockquote, .tag-coulds a {
       padding-right: 26px; } }
   .banner-inner h1 {
     font-size: 75px;
-    font-weight: 400;
-    font-family: "Shadows Into Light", cursive;
+   
+    font-family: "Livvic";
     text-transform: capitalize; }
     @media only screen and (max-width: 991px) {
       .banner-inner h1 {
