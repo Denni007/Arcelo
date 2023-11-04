@@ -1,12 +1,12 @@
 {
     "routes": [
       { "handle": "filesystem" },
-      { "src": "/", "dest": "/index.html" },
+      { "src": "/", "dest": "mun/index.html" },
       { "src": "/contact-us", "dest": "/contactus.html" },
       { "src": "/aboutus", "dest": "/aboutus.html" },
       { "src": "/ga4-migration", "dest": "/ga4-migration.html" },
       { "src": "/tracking", "dest": "/tracking.html" },
       { "src": "/s2s-gtm", "dest": "/s2s-gtm.html" },
-      { "src": "/(.*)", "status": 404, "dest": "/coming-soon.html" }
+      { "src": "/(.*)", "status": 404, "destination": "/coming-soon.html" }
     ]
   }
