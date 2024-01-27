@@ -3,7 +3,7 @@
       { "handle": "filesystem" },
       { "src": "/", "dest": "/index.html" },
       { "src": "/contact-us", "dest": "/contactus.html" },
-      { "src": "/aboutus", "dest": "/aboutus.html" },
+      { "src": "/aboutus", "dest": "/about.html" },
       { "src": "/ga4-migration", "dest": "/ga4-migration.html" },
       { "src": "/tracking", "dest": "/tracking.html" },
       { "src": "/s2s-gtm", "dest": "/s2s-gtm.html" },
