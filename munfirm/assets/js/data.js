@@ -2576,12 +2576,9 @@ console.log(flavorExtracted);
         <div class="col-xl-3 col-lg-4 col-sm-6">
             <div class="product-item wow fadeInUp delay-0-2s">
                 <div class="image">
-                    <img src="${product.main_image.link}" alt="${product.title}"
-                    
-                   
-  >
+                    <img src="${product.main_image.link}" alt="${product.title}" height="230px"  >
                 </div>
-                <div class="content">
+                <div class="content" style="display: flex; flex-direction: column;">
                
                     <h5><a href="/product-details.html?id=${product.asin}">${flavorExtracted} ${gramExtracted}</a></h5>
                     
@@ -2590,7 +2587,7 @@ console.log(flavorExtracted);
                     </span> 
                     <div class="ratting">
                      ${ratingHTML}
-                    (${product.ratings_total})
+                    <span>(${product.ratings_total})</span>
                     </div>
                     <a href="${product.link}" class="theme-btn">Purchase<i class="fas fa-angle-double-right"></i></a>
                     

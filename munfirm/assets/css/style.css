@@ -526,11 +526,16 @@ a.theme-btn {
 .ratting {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
-  display: inline-flex; }
-  .ratting i {
-    margin: 3px;
-    font-size: 14px;
-    color: #ff7800; }
+  justify-content: center;
+  display: inline-flex; 
+}
+.ratting i {
+  margin: 3px;
+  font-size: 14px;
+  color: #ff7800; 
+  display: flex;
+  align-items: center;
+}
 
 /*** Slick Dots ***/
 .slick-arrow {
