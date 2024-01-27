@@ -10,6 +10,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -117,6 +118,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -224,6 +226,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -327,6 +330,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -430,6 +434,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -533,6 +538,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -640,6 +646,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -747,6 +754,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -850,6 +858,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -956,6 +965,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1063,6 +1073,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1170,6 +1181,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1277,6 +1289,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1380,6 +1393,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1487,6 +1501,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1590,6 +1605,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1693,6 +1709,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1800,6 +1817,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -1911,6 +1929,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 4.2,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2022,6 +2041,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2129,6 +2149,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2236,6 +2257,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2347,6 +2369,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2454,6 +2477,7 @@ var data = {
       "brand": "Fit Muscles",
       "categories_flat": "Grocery & Gourmet Foods > Jams, Honey & Spreads > Nut Butters > Peanut Butter",
       "rating": 5,
+      "description":"Fit Muscles Peanut Butter is produced using the original American recipe, which has been cherished by generations of peanut butter connoisseurs. We only use the highest quality roasted peanuts, which are carefully chosen and ground into a texture that is smooth and creamy and ideal for spreading on toast or used as a dip for fruits and vegetables.",
       "rating_breakdown": {
         "five_star": {
           "percentage": 100,
@@ -2550,6 +2574,41 @@ var data = {
   ]
 }
 
+if (window.location.href.includes('product-details.html')) {
+  console.log("hello")
+  var product = data.products.find(product => product.asin === window.location.search.split("id=")[1]);
+  console.log(product);
+
+var gramValue = product.title.match(/\d+ gram/);
+var flavor = product.title.match(/\(.+?,/);
+
+// Extracting the gram value
+var gramExtracted = gramValue ? gramValue[0] : "Gram value not found";
+//console.log(gramExtracted);
+
+// Extracting the phrase before "gram"
+var flavorExtracted = flavor ? flavor[0].slice(1, -1) : "Flavor not found";
+//onsole.log(flavorExtracted);
+
+var product_title = product.title.split("(")[0];
+  console.log(product_title);
+  document.querySelector(".section-title H2").innerText = product_title;
+  document.querySelector(".section-title h3").innerText = flavorExtracted;
+  document.querySelector(".description").innerText = product.description;
+ var productAttribute = product.attributes;
+  var ulElement = document.querySelector(".category-tags");
+
+    // Loop through the data and create li elements
+    productAttribute.forEach(function (detail) {
+        var liElement = document.createElement("li");
+        liElement.innerHTML = "<b>" + detail.name + "</b><span>:</span><a href='#'>" + detail.value + "</a>";
+        ulElement.appendChild(liElement);
+    });
+ // document.querySelector("#details").innerHTML  = prodcut.categories_flat
+  
+} else {
+
+
   function createProductHTML(product) {
     const fullStars = Math.floor(product.rating);
     const hasHalfStar = product.rating - fullStars >= 0.5;
@@ -2576,26 +2635,20 @@ console.log(flavorExtracted);
         <div class="col-xl-3 col-lg-4 col-sm-6">
             <div class="product-item wow fadeInUp delay-0-2s">
                 <div class="image">
-                    <img src="${product.main_image.link}" alt="${product.title}"
-                    
-                   
-  >
+                <a href="/product-details.html?id=${product.asin}">${flavorExtracted} ${gramExtracted}
+                    <img src="${product.main_image.link}" alt="${product.title}">
+                    </a>
                 </div>
                 <div class="content">
-               
                     <h5><a href="/product-details.html?id=${product.asin}">${flavorExtracted} ${gramExtracted}</a></h5>
-                    
                     <span class="price">
                     <span>180</span>
                     </span> 
                     <div class="ratting">
-                     ${ratingHTML}
+                    ${ratingHTML}
                     (${product.ratings_total})
                     </div>
                     <a href="${product.link}" class="theme-btn">Purchase<i class="fas fa-angle-double-right"></i></a>
-                    
-                   
-                
                 </div>
             </div>
         </div>
@@ -2624,3 +2677,4 @@ let op = data.products.sort((a, b) => {
     const productHTML = createProductHTML(product);
     productContainer.innerHTML += productHTML;
 });
+}

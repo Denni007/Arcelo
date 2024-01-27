@@ -669,7 +669,8 @@
         
         /* 25. CountDown Start */
 		if($('.count-down').length !== 0){
-            var $date = $('.count-down').attr('data-date');
+            
+            var $date = new Date() + 5;
                 const second = 1000,
 				  minute = second * 60,
 				  hour = minute * 60,
