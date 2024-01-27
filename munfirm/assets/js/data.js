@@ -2611,22 +2611,75 @@ var product_title = product.title.split("(")[0];
   console.log(product_title);
   document.querySelector(".section-title H2").innerText = product_title;
   document.querySelector(".section-title h3").innerText = flavorExtracted;
+  document.querySelector(".section-title h4").innerText = gramValue;
   document.querySelector(".description").innerText = product.description;
   document.querySelector(".product-image").src = product.main_image.link;
   document.getElementById("details").innerHTML = product.longDescription;
 
   var productAttribute = product.attributes;
-  var ulElement = document.querySelector(".category-tags");
+  // var ulElement = document.querySelector(".category-tags");
 
-    // Loop through the data and create li elements
-    productAttribute.forEach(function (detail) {
-        var liElement = document.createElement("li");
-        liElement.innerHTML = "<b>" + detail.name + "</b><span>:</span><a href='#'>" + detail.value + "</a>";
-        ulElement.appendChild(liElement);
-    });
+  //   // Loop through the data and create li elements
+  //   productAttribute.forEach(function (detail) {
+  //       var liElement = document.createElement("li");
+  //       liElement.innerHTML = "<b>" + detail.name + "</b><span>:</span><a href='#'>" + detail.value + "</a>";
+  //       ulElement.appendChild(liElement);
+  //   });
  // document.querySelector("#details").innerHTML  = prodcut.categories_flat
+ var container = document.getElementById("table-container");
+
+ // Create a table element
+ var tableElement = document.createElement("table");
+ 
+ // Iterate through the product attributes and create table rows
+ productAttribute.forEach(function (detail) {
+     var row = tableElement.insertRow();
+     var cell1 = row.insertCell(0);
+     var cell2 = row.insertCell(1);
+ 
+     // Set the content of the cells
+     cell1.innerHTML = "<h5 style='margin-right:20px;font-size:20px'>" + detail.name + "</h5>";
+     cell2.innerHTML = "<span style='font-size:16px'><a href='#'>" + detail.value + "</a></span>";
+ });
+ 
+ // Append the table to the container
+ container.appendChild(tableElement);
+} 
+if (window.location.href.includes('index.html')) {
+  console.log("hello");
+
+  var products = data.products;
+  var productItems = document.querySelectorAll('.product-item');
   
-} else {
+  // Iterate through each product item and update content
+  productItems.forEach(function (productItem, index) {
+    console.log("he");
+      var product = products[index];
+      var gramValue = product.title.match(/\d+ gram/);
+      var flavor = product.title.match(/\(.+?,/);
+      var gramExtracted = gramValue ? gramValue[0] : "Gram value not found";
+      var flavorExtracted = flavor ? flavor[0].slice(1, -1) : "Flavor not found";
+      // Set image source
+      var imageElement = productItem.querySelector('.image img');
+      imageElement.src = product.main_image.link;
+      imageElement.alt = product.title;
+
+      // Set product name
+      var nameElement = productItem.querySelector('.content h5 a');
+      nameElement.textContent = product.title.split("(")[0] +" "+gramExtracted; 
+      nameElement.href = `product-details.html?id=${product.asin}`; 
+
+      // Set product price
+      var priceElement = productItem.querySelector('.content .price span');
+      //priceElement.textContent = product.price.discounted;
+
+      // If there's a discounted price, set the original price
+      
+  });
+  
+} 
+
+else {
 
 
   function createProductHTML(product) {
@@ -2655,11 +2708,13 @@ console.log(flavorExtracted);
         <div class="col-xl-3 col-lg-4 col-sm-6">
             <div class="product-item wow fadeInUp delay-0-2s">
                 <div class="image">
-                    <img src="${product.main_image.link}" alt="${product.title}" height="230px"  >
+                <a href="product-details.html?id=${product.asin}">
+                    <img src="${product.main_image.link}" alt="${product.title}" height="230px">
+                    </a>
                 </div>
                 <div class="content" style="display: flex; flex-direction: column;">
                
-                    <h5><a href="/product-details.html?id=${product.asin}">${flavorExtracted} ${gramExtracted}</a></h5>
+                    <h5><a href="product-details.html?id=${product.asin}">${flavorExtracted} ${gramExtracted}</a></h5>
                     <span class="price">
                     <span>180</span>
                     </span> 
